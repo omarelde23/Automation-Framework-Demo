@@ -1,6 +1,6 @@
 # SmartBear App Playwright Project
 
-This repository contains an end-to-end test automation framework for the **SmartBear App**, built with **[Microsoft Playwright](https://playwright.dev/)**.  
+This repository contains an end-to-end test automation framework for the **SmartBear App**, built on **[Microsoft Playwright](https://playwright.dev/)**.  
 It follows industry best practices such as the **Page Object Model (POM)**, reusable fixtures, test data separation, and CI/CD pipeline integration.
 
 ---
